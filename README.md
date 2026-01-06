@@ -1,4 +1,4 @@
-# ModelingAndAnimationProject
+# Modeling And Animation Project
 Repository showcasing some modeling and animating projects with given textures
 The first project consisted of modeling a room full of objects:
 <p align="center">
